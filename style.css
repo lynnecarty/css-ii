@@ -11,8 +11,31 @@ img{
 
 ul{
 	list-style-type: square;
+	background-color: red;
 }
 
 h1{
 	font-family: "Helvetica Neue", sans-serif;
 }
+
+.notredparagraph{
+	color:black;
+}
+
+#small{
+	height:100px;
+	width: 150px;
+}
+
+#large{
+	height:500px;
+	width:750px;
+}
+
+.byline{
+	font-family: "Helvetica", sans-serif;
+	font-size: 12px;
+}	
+div{
+	background-color: red;
+}	
